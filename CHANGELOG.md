@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.121.0](https://www.github.com/googleapis/java-cloud-bom/compare/v0.120.2...v0.121.0) (2020-01-06)
+
+
+### Features
+
+* **deps:** manage google-auth-library versions ([#164](https://www.github.com/googleapis/java-cloud-bom/issues/164)) ([2b8e8fa](https://www.github.com/googleapis/java-cloud-bom/commit/2b8e8fad95268bd775b2d1bc227cd770194daa92))
+
+
+### Bug Fixes
+
+* bump trace to fix missing dependency ([#142](https://www.github.com/googleapis/java-cloud-bom/issues/142)) ([62544be](https://www.github.com/googleapis/java-cloud-bom/commit/62544be27fb8044a49296717e194a04e3c899000))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-bigtable-bom to v1.9.0 ([#154](https://www.github.com/googleapis/java-cloud-bom/issues/154)) ([c5b251d](https://www.github.com/googleapis/java-cloud-bom/commit/c5b251d3f9774fb042bf97accc1771316fcd7be6))
+* update dependency com.google.cloud:google-cloud-dialogflow-bom to v0.119.0 ([#153](https://www.github.com/googleapis/java-cloud-bom/issues/153)) ([3d033f8](https://www.github.com/googleapis/java-cloud-bom/commit/3d033f8e7eb72419ce9605e9b904ef3797bbf17e))
+* update dependency com.google.cloud:google-cloud-firestore-bom to v1.32.1 ([#163](https://www.github.com/googleapis/java-cloud-bom/issues/163)) ([855c961](https://www.github.com/googleapis/java-cloud-bom/commit/855c96121ff9eea7f5ff95d232a518efd73359ab))
+* update gax and google-cloud-core ([#146](https://www.github.com/googleapis/java-cloud-bom/issues/146)) ([d81519e](https://www.github.com/googleapis/java-cloud-bom/commit/d81519ea6f62d1b5a3c986ef76cad8bc04079cc4))
+* update google-cloud-automl-bom to 0.115.1 ([#150](https://www.github.com/googleapis/java-cloud-bom/issues/150)) ([797a131](https://www.github.com/googleapis/java-cloud-bom/commit/797a1312b271c74fd94dd99d14ea75396f7d91ae))
+
 ### [0.120.2](https://www.github.com/googleapis/java-cloud-bom/compare/v0.120.1...v0.120.2) (2019-12-06)
 
 
